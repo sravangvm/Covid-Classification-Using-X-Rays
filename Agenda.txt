@@ -1,2 +1,0 @@
-leetcode 1 medium
-week2 complete
